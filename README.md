@@ -1,5 +1,6 @@
-# assets-ds-pt-online-stack-5
- 
+# curriculum-assets-ds-pt-online
+- (Formerly names assets-ds-pt-online-stack-5)
+> a Public repository for hosting images and other assets. 
 
 ## Comparing Figures Saved with Defaults vs. facecolor='white'
 ### Default Figure without a facecolor
