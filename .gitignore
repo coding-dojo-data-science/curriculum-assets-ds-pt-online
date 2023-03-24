@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-.DS_Store
+*.DS_Store
 ./**/.DS_Store
 **/.DS_Store
 
@@ -156,3 +156,4 @@ cython_debug/
 #.idea/
 Images/.DS_Store
 Images/.DS_Store
+.DS_Store
